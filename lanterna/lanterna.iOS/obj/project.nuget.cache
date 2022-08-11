@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SUlQgWl6PrgYx9v8tFD9LzlcpUwBR1faDNyogaPPqMJBQwRQbSq/yq7XCCxSiYuwRNTVO7UQ3VwnHWPYBQmv2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\lanterna\\lanterna\\lanterna.iOS\\lanterna.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\xam.plugin.battery\\3.0.1\\xam.plugin.battery.3.0.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.essentials\\1.0.0\\xamarin.essentials.1.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

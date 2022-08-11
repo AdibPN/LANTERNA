@@ -1,0 +1,34 @@
+E:\ETEC\2º SÉRIE\Programação mobile I\lanterna\lanterna\lanterna\bin\Debug\netstandard2.0\imagens\botaodesligar.png
+E:\ETEC\2º SÉRIE\Programação mobile I\lanterna\lanterna\lanterna\bin\Debug\netstandard2.0\imagens\botaoligar.png
+E:\ETEC\2º SÉRIE\Programação mobile I\lanterna\lanterna\lanterna\bin\Debug\netstandard2.0\lanterna.deps.json
+E:\ETEC\2º SÉRIE\Programação mobile I\lanterna\lanterna\lanterna\bin\Debug\netstandard2.0\lanterna.dll
+E:\ETEC\2º SÉRIE\Programação mobile I\lanterna\lanterna\lanterna\bin\Debug\netstandard2.0\lanterna.pdb
+E:\ETEC\2º SÉRIE\Programação mobile I\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.csproj.AssemblyReference.cache
+E:\ETEC\2º SÉRIE\Programação mobile I\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETEC\2º SÉRIE\Programação mobile I\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\ETEC\2º SÉRIE\Programação mobile I\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\ETEC\2º SÉRIE\Programação mobile I\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.AssemblyInfoInputs.cache
+E:\ETEC\2º SÉRIE\Programação mobile I\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.AssemblyInfo.cs
+E:\ETEC\2º SÉRIE\Programação mobile I\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.csproj.CoreCompileInputs.cache
+E:\ETEC\2º SÉRIE\Programação mobile I\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\XamlC.stamp
+E:\ETEC\2º SÉRIE\Programação mobile I\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.dll
+E:\ETEC\2º SÉRIE\Programação mobile I\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\refint\lanterna.dll
+E:\ETEC\2º SÉRIE\Programação mobile I\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.pdb
+E:\ETEC\2º SÉRIE\Programação mobile I\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\ref\lanterna.dll
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\bin\Debug\netstandard2.0\imagens\botaodesligar.png
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\bin\Debug\netstandard2.0\imagens\botaoligar.png
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\bin\Debug\netstandard2.0\lanterna.deps.json
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\bin\Debug\netstandard2.0\lanterna.dll
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\bin\Debug\netstandard2.0\lanterna.pdb
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.dll
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\refint\lanterna.dll
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\lanterna.pdb
+C:\Users\Usuario\Desktop\lanterna\lanterna\lanterna\obj\Debug\netstandard2.0\ref\lanterna.dll
